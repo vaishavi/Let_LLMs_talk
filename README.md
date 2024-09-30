@@ -15,18 +15,17 @@ This repository contains our course project for the "Natural Language Processing
 - **APIs**: OpenAI for GPT-4-turbo, Replicate for LLaMA3
 
 ## Setup and Installation
- Clone the repository:
-  git clone https://github.com/yourusername/let-the-llms-talk.git
-  cd let-the-llms-talk
 
- Install dependencies:
- pip install -r requirements.txt
+1. **Clone the repository**:
+   Clone the project to your local machine using the following commands:
 
- Environment Variables:
- Set up your OPENAI_API_KEY and REPLICATE_API_KEY in your environment variables or a .env file.
+   ```bash
+   git clone https://github.com/yourusername/let-the-llms-talk.git
+   cd let-the-llms-talk
+   
+2. **Environment Variables**:
+   Set up your OPENAI_API_KEY and REPLICATE_API_KEY in your environment variables or a .env file to ensure secure access to the APIs used in the project.
 
- Running the simulations:
- python src/simulate.py
 
 ## Contributing
 We welcome contributions to this project! If you have suggestions or improvements, please fork the repository and submit a pull request.
