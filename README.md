@@ -31,9 +31,11 @@ This repository contains our course project for the "Natural Language Processing
 We welcome contributions to this project! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
 ## Authors
-Vaishavi Vijayakandan
-Kalyani Vinayagam Sivasundari
-Aarifah Ullah
+
+- **Vaishavi Vijayakandan** - *Contributor* - [VaishaviV](https://github.com/vaishavi)
+- **Kalyani Vinayagam Sivasundari** - *Contributor* - [KalyaniVS](https://github.com/Kalyanivs2k)
+- **Aarifah Ullah** - *Contributor* - [AarifahU](https://github.com/AarifahUllah)
+
 
 ## Acknowledgments
 Thanks to Zahra Abbasiantaeb and collaborators for their original research which inspired this replication study.
